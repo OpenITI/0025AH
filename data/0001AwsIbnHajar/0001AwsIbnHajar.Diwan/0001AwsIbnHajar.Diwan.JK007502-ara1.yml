@@ -5,6 +5,9 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/waq50991/50991/page/n119/mode/2up
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
-90#VERS#COMMENT##: unclear whether complete, order of poems is scrambled compared to edition; introduction notes explicitly that there are no manuscripts for this diwan and that it is a reconstruction; 
+90#VERS#COMMENT##: unclear whether complete, order of poems is scrambled compared to edition; introduction notes explicitly that there are no manuscripts for this diwan and that it is a reconstruction;
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RECONSTRUCTED_TEXT
+90#VERS#ISSUES###: RECONSTRUCTED_TEXT, PRIMARY_VERSION, CLEANED_VERSION

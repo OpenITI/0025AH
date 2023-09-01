@@ -5,7 +5,10 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/waq27690
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+                                                    use consistently)
 90#VERS#COMMENT##: appears to follow the edition, though pagination is a bit off; edition notes where each of the poems is cited in footnotes; the introduction does not note a manuscript on which it is based, so I have a strong impression that this is a modern "diwan" which did not circulate as such in the past; pdf includes contextual information for most poems - isnads + basic info about context for poem; digital edition preserves only the meter
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RECONSTRUCTED_TEXT
+90#VERS#ISSUES###: RECONSTRUCTED_TEXT, PRIMARY_VERSION, CLEANED_VERSION
